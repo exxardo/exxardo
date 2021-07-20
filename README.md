@@ -32,5 +32,6 @@ Looking to do well in: <br>
 📚 .NET development.
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=exxardo&show_icons=true&theme=radical)
-
+<p align="center">
+<img src="https://github.com/exxardo/Assets/blob/main/8c11911-senior-front-end-developer-openings-1.gif" width="180" height="120" />
+</p>
