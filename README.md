@@ -1,8 +1,8 @@
 # Hi, I'm Eduardo! <img src="https://github.com/exxardo/Assets/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" width="40" height="40" /> 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/exxardo)](https://github.com/exxardo)]
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/exxardo)](https://github.com/exxardo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoramiro/)](https://www.linkedin.com/in/eduardoramiro/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/exxardo)]
+![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/exxardo)
 
 ## <p align="center"> System.out.printIn("Glad to have you here, I'll introduce myself briefly."); </p>
 
@@ -32,9 +32,9 @@ Looking to do well in: <br>
 📚 .NET development.
 </p>
 
-
-[![Eduardo's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact)]
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact)"
+</p>
 
 <p align="center">
 <img src="https://github.com/exxardo/Assets/blob/main/8c11911-senior-front-end-developer-openings-1.gif" width="180" height="120" />
