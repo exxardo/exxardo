@@ -33,7 +33,7 @@ Looking to do well in: <br>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact)"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact"
 </p>
 
 <p align="center">
