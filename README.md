@@ -35,7 +35,3 @@ Looking to do well in: <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact"
 </p>
-
-<p align="center">
-<img src="https://github.com/exxardo/Assets/blob/main/8c11911-senior-front-end-developer-openings-1.gif" width="180" height="120" />
-</p>
