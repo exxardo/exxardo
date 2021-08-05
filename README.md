@@ -69,6 +69,6 @@ Here you can find my personal projects and also the ones developed for college, 
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact"/>
      
 </p>
