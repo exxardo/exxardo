@@ -25,7 +25,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: exxardo/exxardo@master
         with:
-          github_user_name: ${{ exxardo.exxardo }}
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: https://github.com/exxardo/exxardo/tree/master/github-contribution-grid-snake.svg
 
       # push the content of <build_dir> to a branch
