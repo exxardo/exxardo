@@ -40,7 +40,7 @@ Here you can find my personal projects and also the ones developed for college, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact&theme=vue-dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=exxardo&show_icons=true&hide=contribs&theme=vue-dark"/>
+  <!– <img src="https://github-readme-stats.vercel.app/api?username=exxardo&show_icons=true&hide=contribs&theme=vue-dark"/>
 </p>
 
 ------
