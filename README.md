@@ -19,7 +19,7 @@
 
 Technology lover in learning; Dynamic, analytical, creative, sociable, lively and with a huge team spirit, after all, no one grows alone.
 
-*"To be great, sometimes you have to take huge risks." - Bill Gates.*
+> "To be great, sometimes you have to take huge risks." - Bill Gates.
 
 As a good IT professional, I know that the search for the new is what moves our area and for this reason I am always looking to improve myself, as a Computer Engineering student or through the Internet.
 Before I decided to get into Information Technology, I worked in areas with intense interaction with the public, this allowed me to learn to listen, think and then act. A good action depends on a good thought.
