@@ -67,6 +67,5 @@ Here you can find my personal projects and also the ones developed for college, 
 
 ------
 
-<p align="center">
-  <img src="https://github.com/exxardo/exxardo/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+
+![Uso disco](https://github.com/exxardo/exxardo/blob/output/github-contribution-grid-snake.svg)
