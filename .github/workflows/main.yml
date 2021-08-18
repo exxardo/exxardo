@@ -28,7 +28,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-	@@ -42,11 +45,9 @@ jobs:
           branch: master
           force: true
 
