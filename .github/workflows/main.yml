@@ -12,7 +12,6 @@ on:
   push:
     branches:
     - main
-    - master
 
 # The sequence of runs in this workflow:
 jobs:
