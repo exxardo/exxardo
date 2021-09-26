@@ -66,4 +66,3 @@ Here you can find my personal projects and also the ones developed for college, 
 </p>
 
 ------
-![SNK](https://raw.githubusercontent.com/exxardo/exxardo/output/github-contribution-grid-snake.svg)
