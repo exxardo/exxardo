@@ -37,8 +37,3 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor de software com experiênci
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxardo&layout=compact&theme=vue-dark"/>
   <!– <img src="https://github-readme-stats.vercel.app/api?username=exxardo&show_icons=true&hide=contribs&theme=vue-dark"/>
 </p>
-
-
----
-
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias.
