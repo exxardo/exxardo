@@ -3,7 +3,6 @@
 Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor de software com experiência em diversas linguagens e tecnologias modernas. Apaixonado por criar soluções robustas e escaláveis, estou sempre em busca de aprender e compartilhar conhecimento.
 
 ---
-
 ## 🚀 Tecnologias que utilizo
 
 ### Linguagens de Programação:
@@ -13,8 +12,8 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor de software com experiênci
 - **TypeScript**
 
 ### Frameworks e Bibliotecas:
-- **NestJS**
 - **Spring Boot**
+- **Express**
 
 ### Tecnologias e Ferramentas:
 - **Node.js**
@@ -22,7 +21,6 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor de software com experiênci
 - **Azure**
 - **AWS**
 - **REST API**
-
 ---
 
 ## 📫 Como entrar em contato comigo?
